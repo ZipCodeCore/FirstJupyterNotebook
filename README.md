@@ -1,4 +1,4 @@
-# FirstJupyterNotebook
+# Museums - Jupyter Notebook
 
 Fork this, then clone it. Create a new jupyter notebook. Figure out how to use Pandas to answer the questions below. 
 When you are finished with the analysis, commit it, and push it back to your fork.
